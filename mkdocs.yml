@@ -2,6 +2,6 @@ site_name: Utopia 47
 theme:
   name: material
 nav:
-  - Terms and Condition: 'index.md'
+  - Terms and Conditions: 'index.md'
 # repo_name: 'Utopia47'
 # repo_url: 'https://github.com/utopia47/utopia47.github.io'
