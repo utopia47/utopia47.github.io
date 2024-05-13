@@ -1,6 +1,6 @@
 # Brigade Utopia Serene Owners Google Group
 
-Welcome to Brigade Utopia Serene Owners Google Group. By participating in this Google Group, you agree to the following terms and conditions
+Welcome to [Brigade Utopia Serene Owners Google Group](https://groups.google.com/g/brigade-utopia-serene-owners). By participating in this Google Group, you agree to the following terms and conditions
 
 1. **Content Responsibility:** The administrators and owners of this group ("Admins") hold no responsibility for the content posted by group members. Members are solely responsible for the accuracy, legality, and appropriateness of their messages.
 
@@ -16,10 +16,6 @@ Welcome to Brigade Utopia Serene Owners Google Group. By participating in this G
 
 7. **Post Responsibility and Privacy:** While the group is regularly moderated, Admins hold no responsibility for data shared by members, ensuring their safety and privacy. Any concerns regarding shared data should be addressed directly between the involved parties. Admins are not liable for shared content, safeguarding members privacy.
 
-8. **Group Usage:** Use this group for common issues only. For individual issues, please use here4you@brigadegroup.com or the Belong App. Add this group only if the issue is widespread.
-
-9. **Escalations:** For escalations, contact utopiaprojectescalations@brigadegroup.com. Please use this group wisely as it includes senior members from the Project, Quality, Estate, Customer-facing, and Chairman’s Office teams.
-
-10. **Non-Official Communication:** This group is not an official email address of the Association and is purely created to connect residents with each other. In no way should any communication on this group be treated as legal or official. Any member or non-member sending or claiming any communication to be official or legal does so at their own risk. The authenticity of messages between sender and recipient is the sole responsibility of the parties involved.
+8. **Non-Official Communication:** This group is not an official email address of the Association and is purely created to connect residents with each other. In no way should any communication on this group be treated as legal or official. Any member or non-member sending or claiming any communication to be official or legal does so at their own risk. The authenticity of messages between sender and recipient is the sole responsibility of the parties involved.
 
 By continuing to participate in this group, you acknowledge that you have read, understood, and agree to abide by these terms and conditions.
