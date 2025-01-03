@@ -6,7 +6,7 @@ Welcome to [Brigade Utopia Serene Owners Google Group](https://groups.google.com
 
 2. **Data Sharing:** Any data, including but not limited to private, professional, or sensitive information, shared within this group is done so at the sole discretion and risk of the individual sharing the data. Admins are not responsible for any misuse or unauthorized sharing of such data.
 
-3. **Moderation:** This is a public group which may be handover to Association in future or dissolved if found to be unmanageable by current set of admins and there is no one else to take over. Creator of group holds this right to dissolve this group. Also, admins do not endorse or guarantee the accuracy or reliability of any content posted by members.
+3. **Moderation:** This is a public group which may be handover to Association in future or dissolved if found to be unmanageable by current set of admins and there is no one else to take over. Creator of group holds this right to dissolve this group. Also, admins do not endorse or guarantee the accuracy or reliability of members or any content posted by members.
 
 4. **Indemnification:** By participating in this group, you agree to indemnify and hold harmless the Admins from any claims, damages, or liabilities arising out of or related to your participation in the group or the content you post.
 
