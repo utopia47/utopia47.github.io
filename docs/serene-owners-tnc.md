@@ -1,5 +1,5 @@
 !!! danger "Important: Google Group Closure"
-    As of today, **January 10th, 2025, this group is now closed.**
+    As of **January 10th, 2025, this group is closed.**
     _If you're a resident of Serene and need assistance with any issues, please reach out to Serene RWA for support._
 
 ---
