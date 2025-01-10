@@ -5,3 +5,31 @@ nav:
   - Terms and Conditions: 'index.md'
 # repo_name: 'Utopia47'
 # repo_url: 'https://github.com/utopia47/utopia47.github.io'
+
+markdown_extensions:
+  - meta
+  - pymdownx.superfences
+  - attr_list
+  - codehilite:
+      guess_lang: false
+  - admonition
+  - abbr
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
